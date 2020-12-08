@@ -12,8 +12,9 @@ Hello I am a student of computer engineering, and I am a taster of technology, g
 -   📡  At this moment I seek to collaborate with projects Front-end, Back-end, FullStack.
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=RenanPessoa4)](https://github.com/RenanPessoa4/github-readme-stats)
+![RenanPessoa4 github stats](https://github-readme-stats.vercel.app/api?username=aRenanPessoa4&show_icons=true&theme=merko)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanPessoa4&layout=compact)](https://github.com/RenanPessoa4/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanPessoa4)](https://github.com/RenanPessoa4/github-readme-stats)
 
